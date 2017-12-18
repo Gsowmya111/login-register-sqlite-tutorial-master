@@ -241,5 +241,6 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
         textInputEditTextPassword.setText(null);
         textInputEditTextConfirmPassword.setText(null);
         textInputEditTextFirstName.setText(null);
+        textInputEditTextFirstName.setText(null);
     }
 }
